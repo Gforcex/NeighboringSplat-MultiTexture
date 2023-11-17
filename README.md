@@ -5,7 +5,7 @@
 ![](img/Splat.png)
 
 生成ID Map和一张合并后的Splat Map    
-![](img/new Splat.png)
+![](img/new%20Splat.png)
 
 最终显示对比    
-![](final.png)
+![](img/final.png)
