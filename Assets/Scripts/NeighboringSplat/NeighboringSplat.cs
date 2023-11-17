@@ -1,3 +1,10 @@
+//--------------------------------------------------------------------------------------
+// Author: Gforcex@163.com
+//
+// https://github.com/Gforcex/NeighboringSplat-MultiTexture
+//
+//--------------------------------------------------------------------------------------
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
